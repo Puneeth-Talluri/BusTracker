@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bus Tracker - CTA</string>
+    <string name="search_by_route_number_name">Search by route number/name</string>
+</resources>
